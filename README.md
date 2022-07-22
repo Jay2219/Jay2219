@@ -3,7 +3,7 @@
 
 <h3 style="left: 50px; position:relative;">About me:</h3>
 
-- 👋 Hi, I’m @viveena30
+- 💻 3rd year CS undergrad
 - 👀 I’m interested in becoming a software developer.
 - 🌱 I’m currently learning **Deep Learning and Object Detection Techniques**
 - 🤠 Open Source Enthusiast 
